@@ -1,7 +1,3 @@
-==================================================
-AI Lab Experiment 8: Water Jug Problem (BFS)
-==================================================
-
 Water Jug Problem Configuration:
   Jug A Capacity : 4 Liters
   Jug B Capacity : 3 Liters
