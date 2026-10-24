@@ -1,7 +1,3 @@
-==================================================
-AI Lab Experiment 6: Alpha-Beta Pruning
-==================================================
-
 Game Tree Structure:
   [[3, 5], [2, 9]]
 Initial Alpha: -inf | Initial Beta: inf
