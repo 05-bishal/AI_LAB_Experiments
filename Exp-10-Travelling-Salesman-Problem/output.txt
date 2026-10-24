@@ -1,0 +1,14 @@
+==================================================
+AI Lab Experiment 10: Travelling Salesman Problem
+==================================================
+
+Distance Matrix between Cities:
+     A  B  C  D
+  A: [0, 10, 15, 20]
+  B: [10, 0, 35, 25]
+  C: [15, 35, 0, 30]
+  D: [20, 25, 30, 0]
+
+Optimal TSP Tour Route:
+  A -> B -> D -> C -> A
+Minimum Distance / Tour Cost: 80

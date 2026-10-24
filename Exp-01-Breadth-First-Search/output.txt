@@ -1,0 +1,16 @@
+==================================================
+AI Lab Experiment 1: Breadth First Search (BFS)
+==================================================
+
+Graph Adjacency List:
+  A -> ['B', 'C']
+  B -> ['D', 'E']
+  C -> ['F']
+  D -> []
+  E -> ['G']
+  F -> []
+  G -> []
+
+Starting BFS from node 'A':
+BFS Traversal Order:
+A B C D E F G 
