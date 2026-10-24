@@ -1,10 +1,6 @@
 import math
 
 def minmax(depth, node_index, maximizing_player, values, height):
-    """
-    Minimax Algorithm for adversarial decision-making in 2-player zero-sum games.
-    Maximizer seeks the highest possible score, Minimizer seeks the lowest.
-    """
     if depth == height:
         return values[node_index]
 
