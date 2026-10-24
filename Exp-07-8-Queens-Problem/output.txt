@@ -1,7 +1,3 @@
-==================================================
-AI Lab Experiment 7: 8-Queens Problem (Backtracking)
-==================================================
-
 Solving 8-Queens Problem using Backtracking...
 
 Solution for 8-Queens Problem:
