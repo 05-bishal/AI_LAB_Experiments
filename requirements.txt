@@ -1,3 +1,0 @@
-# Artificial Intelligence Lab Requirements
-# All experiments are implemented using Python standard libraries (collections, heapq, math, itertools).
-# Recommended Python version: Python 3.8+
