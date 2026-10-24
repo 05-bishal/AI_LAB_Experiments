@@ -1,16 +1,1 @@
-==================================================
-AI Lab Experiment 2: Depth First Search (DFS)
-==================================================
-
-Graph Adjacency List:
-  A -> ['B', 'C']
-  B -> ['D', 'E']
-  C -> ['F']
-  D -> []
-  E -> ['G']
-  F -> []
-  G -> []
-
-Starting DFS from node 'A':
-DFS Traversal Order:
-A B D E G C F 
+Target Found
