@@ -1,10 +1,4 @@
 def alpha_beta(node, depth, alpha, beta, maximizing_player):
-    """
-    Alpha-Beta Pruning Optimization for Minimax
-    alpha: Best value maximizer can guarantee so far
-    beta:  Best value minimizer can guarantee so far
-    Prunes subtrees whenever alpha >= beta.
-    """
     if depth == 0 or isinstance(node, int):
         return node
 
