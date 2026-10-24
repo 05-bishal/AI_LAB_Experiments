@@ -1,10 +1,7 @@
 from collections import deque
 
 def water_jug(capacity_a, capacity_b, target):
-    """
-    Breadth First Search (BFS) state-space search for Water Jug Problem.
-    States are represented as tuples: (current_a, current_b).
-    """
+    
     queue = deque()
     visited = set()
     parent = {}
