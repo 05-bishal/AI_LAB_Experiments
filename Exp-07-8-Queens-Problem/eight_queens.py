@@ -2,13 +2,7 @@ N = 8
 board = [["." for _ in range(N)] for _ in range(N)]
 
 def is_safe(row, col):
-    """
-    Check if placing a Queen at board[row][col] is safe.
-    Must verify:
-    1. Same column above
-    2. Upper-left diagonal
-    3. Upper-right diagonal
-    """
+    
     # Check column
     for i in range(row):
         if board[i][col] == "Q":
