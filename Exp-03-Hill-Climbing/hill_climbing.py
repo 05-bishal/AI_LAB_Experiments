@@ -1,16 +1,8 @@
 def objective(x):
-    """
-    Objective function: f(x) = -(x - 3)^2 + 9
-    The global maximum occurs at x = 3 with value f(3) = 9.
-    """
     return -(x - 3) ** 2 + 9
-
-
+    
 def hill_climbing(start):
-    """
-    Simple Hill Climbing algorithm that greedily moves to a neighboring state
-    with a higher objective value until no strictly better neighbor exists.
-    """
+
     current = start
     step = 0
     print(f"Initial State: x = {current}, f(x) = {objective(current)}")
