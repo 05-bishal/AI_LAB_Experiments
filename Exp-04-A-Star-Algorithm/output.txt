@@ -1,7 +1,3 @@
-==================================================
-AI Lab Experiment 4: A* Search Algorithm
-==================================================
-
 Graph Adjacency List with Edge Weights:
   A -> [('B', 2), ('C', 4)]
   B -> [('A', 2), ('D', 3)]
